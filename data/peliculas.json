@@ -1,0 +1,20 @@
+[
+  {
+    "id": "P01",
+    "nombre": "xxxxx",
+    "duracion": "xxxxxx",
+    "sinopsis": "xxxxxx",
+    "generos": {
+      "id": "G01",
+      "nombre": "Accion"
+    },
+    "actores": {
+      "id": "A01",
+      "nombre": "xxxxxxx"
+    },
+    "formato": {
+      "id": "F01",
+      "nombre": "DVD"
+    }
+  }
+]
